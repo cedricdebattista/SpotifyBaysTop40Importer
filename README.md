@@ -7,7 +7,7 @@ You will need to install:
 * pip install spotipy  (Client that accesses spotify)
 * pipi nstall bs4       (HTML scaper)
 
-#Setup
+## Setup
 Replace these variables:
 * client_id       = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 * client_secret   = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
