@@ -9,10 +9,10 @@ You will need to install:
 
 #Setup
 Replace these variables:
-	client_id       = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-	client_secret   = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-	redirect_uri    = 'http://localhost:8080'
-	playlistName    = 'Top 40'
+	* client_id       = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+	* client_secret   = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+	* redirect_uri    = 'http://localhost:8080'
+	* playlistName    = 'Top 40'
 
 Remember to get the client_id and client_secret you will need to register here:
 	https://developer.spotify.com/dashboard/applications
