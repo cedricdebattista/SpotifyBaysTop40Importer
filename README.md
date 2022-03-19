@@ -16,3 +16,6 @@ Replace these variables:
 
 Remember to get the client_id and client_secret you will need to register here:
 	https://developer.spotify.com/dashboard/applications
+
+The client_id and the client_secret are passed as arguments to the application constructor
+and are set in the launch.json file
