@@ -5,7 +5,7 @@ This application scrapes the bay's Top 40 list and adds them to a spotify playli
 
 You will need to install:
 * pip install spotipy  (Client that accesses spotify)
-* pipi nstall bs4       (HTML scaper)
+* pip install bs4       (HTML scaper)
 
 ## Setup
 Replace these variables:
