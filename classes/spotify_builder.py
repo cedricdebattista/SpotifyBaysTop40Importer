@@ -19,7 +19,8 @@ class SpotifyBuilder:
 
         while playlists:
             for i, playlist in enumerate(playlists['items']):
-                if( playlist['name']==playlist_name):
+                
+                if( playlist != None and playlist['name']==playlist_name):
                     playlistId= playlist['uri']
 
             if playlists['next']:
